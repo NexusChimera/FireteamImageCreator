@@ -1,0 +1,2 @@
+ bungie_name=YourBungieName#1234
+ bungie_api_key=YourBungieApiKey
