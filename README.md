@@ -18,7 +18,7 @@ This script automates the process of collecting and organizing Destiny 2 player 
 - A PC running Windows
 - An active internet connection
 - Access to Destiny 2
-- A Bungie.net API key [Bungie API Key] https://www.bungie.net/en/Application/Create
+- A Bungie.net API key [Bungie API Key](https://www.bungie.net/en/Application/Create)
 	- Log in with Bungie account and click the link again
 	- Fill out "Application Name" with whatever you want as long as its not taken
 	- Scroll down and and click "I agree to abide by the Terms of Use for the Bungie.net API" and click Create New App
