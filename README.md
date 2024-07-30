@@ -17,7 +17,7 @@ This script automates the process of collecting and organizing Destiny 2 player 
 
 - A PC running Windows
 - An active internet connection
-- Access to Destiny 2
+- Destiny 2
 - A Bungie.net API key [Bungie API Key](https://www.bungie.net/en/Application/Create)
 	- Log in with Bungie account and click the link again
 	- Fill out "Application Name" with whatever you want as long as its not taken
@@ -68,12 +68,12 @@ This will install:
 ## 🚀 Running the Script
 
 1. **Prepare Your Environment:**
-   - Ensure Destiny 2 is running and you are on the Nearby list screen.
+   - Ensure Destiny 2 is running and your Open Director-Roster keybinding is set to ']' (Secondary works if you want to keep your Primary binding).
 
 2. **Run the Script:**
    - Double Click the Fireteam.py script in the contained folder
 3. **Follow On-Screen Instructions:**
-   - The script will immediately start running. Switch back to Destiny 2 and wait for the script to complete the process.
+   - The script will immediately start running. Switch back to Destiny 2 and open the Roster wait for the script to complete the process.
 
 ## 📜 License
 
